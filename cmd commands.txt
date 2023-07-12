@@ -1,0 +1,8 @@
+npm i -g create-react-app
+mkdir fsd
+cd fsd
+npx create-react-app prac2
+cd prac2
+npm start
+
+npm i react-router-dom
